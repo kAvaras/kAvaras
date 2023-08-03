@@ -10,8 +10,8 @@
 </br>
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; align-items: center; width: 100%; max-width: 800px;">
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=b1tburn3r20&show_icons=true&theme=codeSTACKr" />
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=b1tburn3r20&theme=codeSTACKr&hide_progress=true&layout=compact" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kAvaras&show_icons=true&theme=codeSTACKr" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kAvaras&theme=codeSTACKr&hide_progress=true&layout=compact" />
   </div>
 </div>
 
